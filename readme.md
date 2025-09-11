@@ -6,6 +6,7 @@ Opret i os2iot som en almindelig LoRaWAN device. Vælg LoRaWAN version 1.0.4.
 DevEUI står på label på device
 
 Alle DC500 devices har samme AppKey. Den er `2b7e151628aed2a6abf7158809cf4f3c`
+Ja det er dumt og ikke specielt sikkert, men sådan valgte Dingtek altså det skulle være.
 
 ## Konfiguration
 
