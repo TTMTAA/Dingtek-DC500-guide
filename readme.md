@@ -42,4 +42,4 @@ men det er ikke altid lige let at finde det rigtige punkt.
 
 
 ## Payload decoder
-Der ligger en os2iot payload decoder i filen os2iot-payload-dcoder.js
+Der ligger en os2iot payload decoder i filen [os2iot-payload-dcoder.js](os2iot-payload-dcoder.js)
