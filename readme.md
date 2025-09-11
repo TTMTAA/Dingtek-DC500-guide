@@ -10,11 +10,13 @@ Ja det er dumt og ikke specielt sikkert, men sådan valgte Dingtek altså det sk
 
 ## Konfiguration
 
-Default vkonfigurationen af DC500 er ikke helt optimal. 
-Der er 4 indstillinger der medfordel kan skiftes. 
-Dette gøres lettest Over-The_ait, altså med downlink beskeder.
+Default konfigurationen af DC500 er ikke helt optimal. 
+Der er 4 indstillinger der med fordel kan skiftes. 
+Dette gøres lettest Over-The-Air, altså med downlink beskeder.
 
 Der er 4 af disse beskeder, de skal alle sendes til port `3`
+
+Man kan fint lægge alle 4 i kø samtidig, så sender os2iot dem hen ad vejen.
 
 ### Sæt tansmissions interval til 1 time
 ```
